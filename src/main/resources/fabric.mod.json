@@ -12,7 +12,7 @@
 		"sources": "https://github.com/minecraftweter/coolminecraftmod"
 	},
 	"license": "MIT-License",
-	"icon": "assets/coolminecraftmod/icon.png",
+	"icon": "icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
